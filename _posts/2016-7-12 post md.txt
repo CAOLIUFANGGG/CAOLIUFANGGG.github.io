@@ -1,0 +1,8 @@
+---
+layout: post
+title: 讨厌的c语言
+tages: 2016-7-12 post md
+Dscription:
+category:c language
+---
+讨厌讨厌！
